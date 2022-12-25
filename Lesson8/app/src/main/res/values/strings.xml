@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson8</string>
+    <string name="fragment1">Фрагмент1</string>
+    <string name="fragment2">Фрагмент2</string>
+    <string name="clickme">Нажми на мене</string>
+</resources>
