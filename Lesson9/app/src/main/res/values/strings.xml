@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lesson9</string>
+    <string name="hello_admin">Привіт, адміністратор</string>
+    <string name="your_room">Ваш кабінет</string>
+    <string name="my_room">Особистий кабінет</string>
+    <string name="main">Головна</string>
+    <string name="contacts">Контакти</string>
+    <string name="vlog">Влог</string>
+</resources>
