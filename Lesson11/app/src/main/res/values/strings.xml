@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson11</string>
+    <string name="hello_admin">Привіт, адміністратор</string>
+    <string name="your_room">Ваш кабінет</string>
+    <string name="my_room">Особистий кабінет</string>
+    <string name="main">Головна</string>
+    <string name="contacts">Контакти</string>
+    <string name="vlog">Влог</string>
+    <string name="input_name">Введіть ім\'я</string>
+    <string name="input_biography">Введіть біографію</string>
+    <string name="save">Зберегти</string>
+    <string name="download">Завантажити</string>
+</resources>
